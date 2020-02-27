@@ -1,0 +1,6 @@
+/demos
+/data
+.idea/**
+*.pyc
+__pycache__
+A2.pdf
